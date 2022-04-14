@@ -12,3 +12,4 @@ If you like my content,...... Please, leave me a star.You can contribute as well
 |[Go Rest Api development with Go + gin gonic + mongodb](https://github.com/console-Lancer-works/Go-Mongo-RestApi-Gin-Gonic)|
 |[Go Mongo gin Micro service architecture](https://github.com/console-Lancer-works/Go-Gin-Microservice-RestApi)|
 |[GO Rest Api with mux + mysql](https://github.com/console-Lancer-works/Go-mux-mysql-Restapi)|
+|[GO Rest Api gin + mysql](https://github.com/console-Lancer-works/GO-mysql-Gin-RestApi)|
