@@ -1,6 +1,6 @@
 # [Go - Development](https://leetcode.com/problemset/algorithms/) ![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)
 
-If you like my content,...... Please, leave me a star.You can contribute as well. ❤️
+If you like my content,.... Please, leave me a star.You can contribute as well. ❤️
 ```diffb
 - Yash Verma
 ```
