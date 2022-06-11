@@ -1,4 +1,6 @@
-# [Go - Development](https://leetcode.com/problemset/algorithms/) ![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)
+# [Go - Development](https://leetcode.com/problemset/algorithms/)  
+
+[![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md)   ![PRs welcome](https://img.shields.io/badge/PRs%20-welcome-brightgreen.svg) 
 
 If you like my content,... Please, leave me a star.You can contribute as well. ❤️
 ```diffb
@@ -32,3 +34,14 @@ If you like my content,... Please, leave me a star.You can contribute as well. �
 |2.|[Banking Server](https://github.com/vyash5075/Banking-server)|
 |3.|[Banking Auth microservice](https://github.com/vyash5075/Banking-Auth-Microservice)|
 |4.|[Room Booking Application](https://github.com/vyash5075/Room-BookingApp)|
+
+ ## Contributors ⚡
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/vyash5075"><img src="https://avatars.githubusercontent.com/u/44260505?v=4" width="114px;" alt=""/><br /><sub><b>Yash Verma</b></sub></a><br /><a href="https://github.com/vyash5075" title="Github"> 👨‍💻 </a></td>
+  </tr>
+</table>
+
+ 
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.   
